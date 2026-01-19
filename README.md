@@ -4,6 +4,8 @@
 
 **Published:** October 11, 2025
 
+**Visit the full analysis here:** https://github.com/DLPsamuel/Education_Data_Project/blob/main/The_State_of_Public_Education.ipynb
+
 # Executive Summary
 
 ## Context and Scope
