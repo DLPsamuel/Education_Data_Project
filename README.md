@@ -1,4 +1,4 @@
-# The State of Public Education: A Brief Analysis of K-12 Eductation Outcomes and Resources in the United States
+# The State of Public Education: A Brief Analysis of K-12 Education Outcomes and Resources in the United States
 
 **Author:** Samuel De La Paz
 
